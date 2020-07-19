@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallAndSMS</string>
+    <string name="phone">Телефон</string>
+    <string name="Text">Текст</string>
+    <string name="call">Звоним</string>
+    <string name="send">Отправляем</string>
+</resources>
